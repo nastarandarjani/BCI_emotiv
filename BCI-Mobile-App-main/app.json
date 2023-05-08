@@ -1,0 +1,5 @@
+{
+  "name": "TempNative",
+  "displayName": "TempNative",
+  "plugins": ["expo-image-picker","expo-camera"]
+}
