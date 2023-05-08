@@ -1,0 +1,6 @@
+queue
+websocket
+asyncio
+cyPyWinUSB
+numpy
+scipy
