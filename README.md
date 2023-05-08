@@ -46,6 +46,10 @@ The `npm run android` command will start the simulator if there’s no external 
 3. Open ngrok.exe file and run `ngrok http 8000`.
 4. In the android application on your mobile, insert the ngrok url in the textbox and press connect button.
 
+Here is a android app should look like:
+
+<img src="https://github.com/nastarandarjani/BCI_emotiv/blob/main/app.jpg" width=25% height=25%>
+
 ## Code explanation
 ### Server
 Most of the server code stems from the examples in the Cykit repository, but some will be explained here. 
@@ -78,10 +82,6 @@ If the data is valid, a `finalData` value and a constant are added to these valu
 2. Open the android app on an Android device or emulator.
 3. The app will display a circle whose size changes based on the alpha power of brain waves received from the server.
 4. The radius value is also displayed in the upper side of the circle.
-
-
-
-![Here is a android app should look like:](/1.jpg)
 
 ### Acknowledgments
 The extracting Emotiv device data and decoding process is derived from [CyKit](https://github.com/CymatiCorp/CyKit) repository.
