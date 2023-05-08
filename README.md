@@ -46,7 +46,7 @@ The `npm run android` command will start the simulator if there’s no external 
 3. Open ngrok.exe file and run `ngrok http 8000`.
 4. In the android application on your mobile, insert the ngrok url in the textbox and press connect button.
 
-Here is a android app should look like:
+Here is aد android app should look like:
 
 <img src="https://github.com/nastarandarjani/BCI_emotiv/blob/main/app.jpg" width=25% height=25%>
 
