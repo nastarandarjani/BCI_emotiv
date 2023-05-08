@@ -59,7 +59,7 @@ First time for starting the WebSocket server and second time in order to run the
 * `update` function update a 14*256 dimension matrix and return the radius value.
 * `get_frequency` and `extract_power` functions filters the signals and return the mean power spectral density (PSD) value of the alpha frequency bands.
 
-### Client (App): 
+### Client (App) 
 The client app is made of Android and IOS configuration folders, required JavaScript files for react-native, main functionality, and package.json, which contain JavaScript packages. 
 The main functionality of the client is in the App.js file.
 This file contains the app function, which presents the main component rendered on the cell phone. 
