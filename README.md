@@ -79,6 +79,10 @@ If the data is valid, a `finalData` value and a constant are added to these valu
 3. The app will display a circle whose size changes based on the alpha power of brain waves received from the server.
 4. The radius value is also displayed in the upper side of the circle.
 
+
+
+![Here is a android app should look like:](/1.jpg)
+
 ### Acknowledgments
 The extracting Emotiv device data and decoding process is derived from [CyKit](https://github.com/CymatiCorp/CyKit) repository.
 All the related documentation are available in the mentioned repository.
